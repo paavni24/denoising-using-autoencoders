@@ -9,7 +9,7 @@ This project involves using autoencoders to denoise dental medical images. The d
 
 ## Model Architecture
 
-![Project Screenshot](https://github.com/paavni24/denoising-using-autoencoders/blob/main/JSRTAutoencmodel.png)
+![Project Screenshot](https://github.com/paavni24/denoising-using-autoencoders/blob/main/autoenc-model.png)
 
 ## Dataset
 
