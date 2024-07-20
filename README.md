@@ -7,6 +7,8 @@ Autoencoders are a type of artificial neural network used for unsupervised learn
 
 This project involves using autoencoders to denoise dental medical images. The dataset consists of dental X-ray images with various types of noise. The goal is to apply an autoencoder to remove noise from these images, improving their quality for better diagnosis and analysis.
 
+## Model Architecture
+
 ## Dataset
 
 The dataset used in this project contains dental X-ray images with noise. The images are stored in a directory with each image being a grayscale PNG file.
@@ -20,5 +22,8 @@ The dataset used in this project contains dental X-ray images with noise. The im
 - matplotlib
 - numpy
 - OpenCV (for image processing)
+
+## Results
+PSNR value for Denoised image is 68.22754978530422 dB while for Median filtered image is 58.44450155924384 dB
 
 
